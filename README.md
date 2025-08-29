@@ -6,10 +6,6 @@ Lumanagi is a decentralized exchange that allows anyone to pool, list and trade 
 
 Lumanagi Trade Games is a new blockchain-based trading game with an innovative earning system. It features a dynamic XP system that allows players to earn LMNG tokens while playing. The game is built on the Polygon network, formerly known as the Matic network. You can place your bets using the MATIC coin. This document aims to provide an overview of Lumanagi Trade Games, its features, and how players can benefit from it more than any other platform.
 
-- 🖥**Official Website**🖥: <https://lumanagi.com/>
-
-- 🎮**Live Link**🎮: <https://web.lumanagi.com/prediction>
-
 - ♾**Ideal Design**♾: <https://www.figma.com/file/dtXsE8KudyvKD27YCf4JFQ/Lumanagi-Dex?type=design&node-id=0-1&mode=design&t=22DUlYqf9GT4OLZQ-0>
 
 ### Install Dependencies
